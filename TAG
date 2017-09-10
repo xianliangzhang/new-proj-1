@@ -2,7 +2,7 @@ This message is on tag v2.0
 Modified on branch feature-one.
 Modified on feature-two.
 
-Modify on feature - once
+Modify on feature - once - once
 Modify on feature - twice
 
 Modify on master -once
