@@ -3,9 +3,8 @@ Modified on branch feature-one.
 Modified on feature-two.
 
 Modify on feature - once - once
-Modify on feature - twice
+Modify on feature - twice - twice
 
 Modify on master -once
 Modify on master -tiwce
-
 
